@@ -16,7 +16,7 @@ Screenshot
 
 .. image:: https://github.com/dropbox/changes/raw/master/docs/images/example.png
 
-
+ 
 Requirements
 ============
 
